@@ -1,0 +1,10 @@
+package com.sathya.collections;
+
+import lombok.Setter;
+
+@Setter
+public class Employee {
+ private int empid;
+ private String empname;
+ private double empsalary;
+}

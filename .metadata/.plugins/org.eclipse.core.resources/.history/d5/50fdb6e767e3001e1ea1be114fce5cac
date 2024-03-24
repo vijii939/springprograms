@@ -1,0 +1,12 @@
+package com.sathya.springex;
+
+public class Phamarcy {
+	 private String name;
+	  private String location;
+	public Phamarcy(String name, String location) {
+		super();
+		this.name = name;
+		this.location = location;
+	}
+	  
+}

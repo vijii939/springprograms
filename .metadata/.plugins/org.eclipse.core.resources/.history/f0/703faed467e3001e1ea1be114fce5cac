@@ -1,0 +1,9 @@
+package com.sathya.springex;
+
+import java.util.jar.Attributes.Name;
+
+public class Doctor {
+	private int id;
+	private String name;
+
+}
